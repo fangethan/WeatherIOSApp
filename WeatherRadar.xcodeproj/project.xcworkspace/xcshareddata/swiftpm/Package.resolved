@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "google-maps-ios-utils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googlemaps/google-maps-ios-utils",
+      "state" : {
+        "revision" : "3fbb88493304083cd7e126489ea0cf3b6f9e5ce1",
+        "version" : "4.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
